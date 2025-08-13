@@ -8,6 +8,6 @@ Our approach combines technical excellence with efficient processes, delivering 
 
 At Appventura, we believe in democratizing access to technology through simplified processes, modern products adapted to each user group's specific experience, ultimately making a positive impact on communities worldwide.
 
-# Get in touch
+### Get in touch
 
 quest@appventura.com
